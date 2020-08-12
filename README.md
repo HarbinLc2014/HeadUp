@@ -4,6 +4,9 @@
 
 ### This is an app to fetch news from newsapi and display image and simple content, with clicking title to open news with full content in default web browser.
 
+#### ScreenShot has been attached as ScreenShot1.png and ScreenShot2.png
+
+
 ## To run this app:
 ### run `yarn` or `npm install` in project folder
 ### run `npx react-native run-ios(android)` in project folder
