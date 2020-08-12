@@ -1,6 +1,8 @@
 # HeadUpLabsTest
 
-## This app is built for HeadUpLab Company Code Test, which is an app to fetch news from newsapi and display image and simple content, with clicking title to open news with full content in default web browser.
+## This app is built for HeadUpLab Company Code Test developed by Carl Lu. 
+
+### This is an app to fetch news from newsapi and display image and simple content, with clicking title to open news with full content in default web browser.
 
 ## To run this app:
 ### run `yarn` or `npm install` in project folder
