@@ -12,6 +12,7 @@
 
 ### View news in Home Page
 ### Click arrow button to view description, and click '^' to hide description for each news item.
+### Pull to refresh Home Page.
 ### Click title or image in Home Page to view details for a specific news.
 ### View news details in Detail Page.
 ### Click title or url in Detail Page to open news in default browser.
